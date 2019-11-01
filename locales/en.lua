@@ -1,7 +1,6 @@
 Locales ['en'] = {
-    -- weed
-    ['have_cought'] = 'Hai una brutta ~r~ tosse. ~w~ Prendi lo sciroppo dai medici.',
-    ['stomach_disease'] = 'Hai l\'~r~ influenza intestinale. ~w~ Prendi l\'antibiotico dai medici.',
-    ['skin_disease'] = 'Hai la~r~ rosacea. ~w~ Prendi l\'antibiotico per la rosacea dai medici.',
-    ['no_disease'] = '~g~ Sei guarito!',
-  }
+  ['have_cought'] = 'You have a bad ~r~cough.~w~ You need to take the syrup',
+  ['stomach_disease'] = 'You have~r~ a sick stomach.~w~ You need to take the antibiotic.',
+  ['skin_disease'] = 'You have ~r~bad red spots on your skin.~w~ You need to take the antibiotic.',
+  ['no_disease'] = '~g~You are no longer sick!',
+}
